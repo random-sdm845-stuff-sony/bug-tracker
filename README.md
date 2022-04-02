@@ -1,13 +1,10 @@
-exrs - Bug Tracker
+Bug tracker for Dayes/Exers builds
 =
 
-Fill in the issue template mentioning the following items:
+How to add a bug report:
 
-    Device
-    Rom
-    Kernel version
-    Android version
-    The issue and steps to reproduce the issue
-    Logs if available
+    Press "Issues" button
+    Press the "Get started" button in the "Bug report" section
+    Fill in the issue mentioning the needed informations
+    Press "Submit new issue" button
 
-Press "Submit new issue" button
